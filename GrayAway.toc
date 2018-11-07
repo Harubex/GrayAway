@@ -3,5 +3,6 @@
 ## Notes: Sells all gray items automatically when a vendor window is opened.
 ## Author: Harubex
 ## Dependencies:
+## Version: 1.0.0
 CrapAway.lua
 CrapAway.xml
