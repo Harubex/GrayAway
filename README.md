@@ -1,2 +1,3 @@
 # GrayAway
-A junk-selling addon for World of Warcraft 1.12.1
+
+This addon automatically sells all poor quality (gray) items when a vendor window is opened.
