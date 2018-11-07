@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cff9d9d9dGray|r Away
+## Notes: Sells all gray items automatically when a vendor window is opened.
+## Author: Harubex
+## Dependencies:
+CrapAway.lua
+CrapAway.xml
