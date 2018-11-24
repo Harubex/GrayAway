@@ -4,7 +4,7 @@
 
     <Script file="GrayAway.lua"/>
 
-    <Frame name="GrayAway">
+    <Frame name="GrayAwayFrame">
         <Scripts>
             <OnEvent>
                 GrayAway_Event();
